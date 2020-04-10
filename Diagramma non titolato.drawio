@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-10T18:07:19.045Z" agent="5.0 (Windows)" etag="kJMGAr6HULV3LlB6kwmg" version="12.9.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-10T18:07:55.226Z" agent="5.0 (Windows)" etag="v59fZn-wkjiKUZMzCp7f" version="12.9.10" type="github">
   <diagram id="XqJHVlFT3tDL70v1qYJr" name="Pagina-1">
     <mxGraphModel dx="1422" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -107,8 +107,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rlVYw7BHJk8TIfh5O3i5-11" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Watchdog Timer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="170" y="357" width="150" height="60" as="geometry" />
+        <mxCell id="rlVYw7BHJk8TIfh5O3i5-11" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Watchdog Timer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="170" y="357" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
