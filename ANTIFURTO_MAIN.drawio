@@ -1,6 +1,6 @@
-<mxfile modified="2020-09-29T12:24:55.454Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="pbZv-0dm3leFnYtQlEep" version="13.7.6" type="github">
+<mxfile modified="2020-09-29T12:57:34.655Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="hdIBLSEmwhxvMxtBc8TG" version="13.7.6" type="github">
   <diagram id="GzJ5kb_HZyxEJcBnKKYt" name="Page-1">
-    <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,7 +166,7 @@
         <mxCell id="Wri909QA5275nmI2Alw--9" value="Task 4" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="495" y="1512" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Wri909QA5275nmI2Alw--13" value="&lt;div&gt;Temporizzazioni &lt;br&gt;&lt;/div&gt;&lt;div&gt;di sistema, info display, backligth display ecc.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;delay 1 sec " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Wri909QA5275nmI2Alw--13" value="Verifica lo stato dei sensori" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="345" y="1654" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Wri909QA5275nmI2Alw--15" value="Entra in programmazione" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -242,7 +242,7 @@
         <mxCell id="eBPrIxGEkgjzH9GVGAAa-3" value="Task 2" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="195" y="1508" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eBPrIxGEkgjzH9GVGAAa-4" value="&lt;div&gt;- tShowInfoDisplay();&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- tServiceMessage();&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- tDisableAhthentication();&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;waitForToAlarmStart();&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- tResetConnectioESP32();&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- verificaDST();&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eBPrIxGEkgjzH9GVGAAa-4" value="&lt;div&gt;- tShowInfoDisplay();&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- tServiceMessage();&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- tDisableAhthentication();&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;waitForToAlarmStart();&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- tResetConnectioESP32();&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- verificaDST();&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;vTaskDelay 1s&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="1648" width="160" height="222" as="geometry" />
         </mxCell>
         <mxCell id="eBPrIxGEkgjzH9GVGAAa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="eBPrIxGEkgjzH9GVGAAa-6" target="eBPrIxGEkgjzH9GVGAAa-8" parent="1">
